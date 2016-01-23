@@ -19,6 +19,14 @@ class MovieAsset extends AssetBundle
     public $baseUrl = '@web';
     public $css = [
         'css/site.css',
+        'css/style.css',
+        'css/responsive.css',
+        'css/darkstyle.css',
+        'css/jquery.fancybox.css',
+        'css/owl.carousel.css',
+        'css/ddsmoothmenu.css',
+        'css/animate.css',
+
     ];
     public $js = [
     ];
